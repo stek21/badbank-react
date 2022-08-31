@@ -39,7 +39,7 @@ node index.js
 
 Browse to http://localhost:3000
 
-![My Image](images/my-image.jpg)
+![My Image](images/my-image.png)
 
 ## License
 MIT
