@@ -40,6 +40,10 @@ node index.js
 Browse to http://localhost:3000
 
 ![My Image](images/my-image.png)
+![Create_Account](images/create-account.png)
+![Deposit](images/deposit.png)
+![Withdraw](images/withdraw.png)
+
 
 ## License
 MIT
